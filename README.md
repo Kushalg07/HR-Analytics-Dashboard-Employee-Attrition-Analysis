@@ -97,5 +97,4 @@ This dashboard helps HR leaders:
 ## 👤 Author
 
 Kushal G  
-M.Tech – Data Science  
-Analytics | AI | Research Enthusiast
+M.Tech – Data Science 
